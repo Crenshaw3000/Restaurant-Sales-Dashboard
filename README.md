@@ -11,3 +11,5 @@ The project can be visited here: [Tableau](https://public.tableau.com/views/Rest
 * Azure Data Studio
 * Excel
 * Tableau
+* Docker
+
