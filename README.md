@@ -23,3 +23,11 @@ I created a two-tab dashboard in Tableau where the Overview tab displays the res
 ### Key Insights<br />
 
 The dashboard revealed several key insights about restaurant performance. From the overview analysis, food sales significantly exceeded beverage sales and generated the highest revenue, while cash payments slightly outpaced online payment methods, and Q1 2023 achieved peak quarterly revenue. The item sales analysis showed that evening hours generated maximum revenue, with sandwiches being the top revenue driver during nighttime. Coffee had the highest sales volume overall, sandwiches contributed the most to total revenue, while Vada Pav performed poorest in both volume and revenue. The menu featured Indian street foods including Vada Pav (Maharashtra's popular deep-fried potato fritter in bread bun with chutneys), Frankie (spiced filling wrapped in roti flatbread), Pani Puri (crispy shells filled with flavored water and spices), and Aloo Puri (deep-fried potato-infused bread). This project demonstrates proficiency in SQL data manipulation, Tableau visualization techniques, and business intelligence analysis for restaurant operations.
+
+### Overview<br /> 
+
+<img width="2786" height="1586" alt="image" src="https://github.com/user-attachments/assets/bd812dc3-6c25-4fd1-b134-04ec3ad4ec6d" />
+
+### Items Sales Ranking<br /> 
+<img width="2772" height="1576" alt="image" src="https://github.com/user-attachments/assets/0fb6bebd-0a41-44bc-b3ed-7f8abfc0f257" />
+
