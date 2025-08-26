@@ -14,7 +14,10 @@ The project can be visited here: [Tableau](https://public.tableau.com/views/Rest
 * Tableau
 
 
-## <a name=" Data Clean Up"></a> Data Clean Up
+## <a name=" Dashboard Details"></a> Dashboard Details
+
+### Data Clean Up<br />
+
 
 For this project, I developed a comprehensive sales performance dashboard by uploading a CSV file to MS SQL Server and creating a database to analyze restaurant transaction data. After examining the dataset, I identified data quality issues, including null values in the transaction type field that required consideration for analysis. To enhance the analytical capabilities, I performed several data transformations by extracting day of week, month, and year from transaction dates, creating three new columns for temporal analysis. I also added fiscal quarters as a new column based on date and year data, then queried the enhanced database and extracted the data to another Excel file for Tableau compatibility since I was using the free version.
 
